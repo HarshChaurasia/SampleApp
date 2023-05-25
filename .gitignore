@@ -3,3 +3,5 @@
 ################################################################################
 
 /SampleApp/.vs/SampleApp
+/SampleApp/SampleApp/obj
+/SampleApp/SampleApp/Properties
